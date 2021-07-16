@@ -1,4 +1,4 @@
 # terraform-examples
-Learning about terraform
+Deploy the following architecture with terraform
 
-Deploy an EC2 instance with securitygroup to allow ssh access
+![architecture](aws-terraform.png "architecture")
